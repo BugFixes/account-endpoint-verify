@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "account-verify-executor",
+    "name": "account-verify",
+    "region": "eu-west-2"
+  }
+}

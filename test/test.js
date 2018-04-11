@@ -123,7 +123,7 @@ const invalidPayLoad = {
   "isBase64Encoded": false
 }
 
-process.env.AUTHY_URL = 'http://127.0.0.1:4001/protected/json'
+// process.env.AUTHY_URL = 'http://127.0.0.1:4001/protected/json'
 // process.env.AWS_DYNAMO_ENDPOINT = 'http://docker.devel:8000'
 
 describe('Account Login Endpoint', () => {
